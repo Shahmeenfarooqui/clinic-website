@@ -9,10 +9,15 @@ header {
     background: #0061ee;
     color: white;
     padding: 1rem 2rem;
+	
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+	
 }
 header h1 {
     margin: 0;
-	text-align: center;
 }
 nav a {
     margin-right: 15px;
