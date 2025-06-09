@@ -1,0 +1,1 @@
+console.log('Clinic website loaded');
